@@ -33,7 +33,7 @@ Um projeto simples desenvolvido com **HTML**, **CSS** e **JavaScript** para trei
 🔈 Observação sobre áudio
 Este projeto usa a Web Speech API para leitura de textos na tela. Caso seu navegador não suporte, você pode usar o serviço ResponsiveVoice (é necessário estar conectado à internet).
 
-✍️ Autora
-Larissa Lima
+## ✍️ Autora
+Larissa Lima •
 Desenvolvedora em formação • Apaixonada por tecnologia e desafios 🚀
 GitHub
